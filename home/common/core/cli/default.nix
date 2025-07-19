@@ -56,7 +56,7 @@
     p7zip
     pciutils
     procs
-    rich-cli
+    # rich-cli
     shell-gpt
     serpl
     skim
