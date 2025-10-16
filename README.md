@@ -31,6 +31,9 @@
 </div>
 <!-- markdownlint-restore -->
 
+> [!WARNING]
+> **This has been superseded by [dileep-kishore/zendots](https://github.com/dileep-kishore/zendots)!**
+
 ## Setup
 
 - OS: [NixOS](https://nixos.org)
